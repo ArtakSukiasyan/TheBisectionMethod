@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "The_Bisection_Method", "The_Bisection_Method\The_Bisection_Method.pyproj", "{61AE9F75-2347-4561-8D61-E994E525A2CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61AE9F75-2347-4561-8D61-E994E525A2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AE9F75-2347-4561-8D61-E994E525A2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6087FA59-3E2C-4F36-960F-0F5EDEE16FC0}
+	EndGlobalSection
+EndGlobal
